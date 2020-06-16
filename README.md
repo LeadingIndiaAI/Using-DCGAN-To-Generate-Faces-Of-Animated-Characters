@@ -31,14 +31,14 @@ Training is done on both the dataset, first the 10k images dataset was used, the
 Training is done for a total of 20,000 steps.
 
 
-## Faces generated :
+# Faces generated :
 
-# Faces generated at the starting 10 epochs or so :
+## Faces generated at the starting 10 epochs or so :
 
 ![0020_image.png](https://github.com/Harshil2001/DCGAN-Anime-Faces/blob/master/images/0020_image.png)
 ![0070_image.png](https://github.com/Harshil2001/DCGAN-Anime-Faces/blob/master/images/0070_image.png)
 
-# Faces generated around 20,000 epochs:
+## Faces generated around 20,000 epochs:
 
 ![17920_image03.png](https://github.com/Harshil2001/DCGAN-Anime-Faces/blob/master/images/17920_image03.png)
 ![19880_image03.png](https://github.com/Harshil2001/DCGAN-Anime-Faces/blob/master/images/19880_image03.png)
