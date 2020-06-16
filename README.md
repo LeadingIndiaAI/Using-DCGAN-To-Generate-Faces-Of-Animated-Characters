@@ -40,7 +40,7 @@ Training is done for a total of 20,000 steps.
 
 # Faces generated around 20,000 epochs:
 
-![17920_image.png](https://github.com/Harshil2001/DCGAN-Anime-Faces/blob/master/images/17920_image.png)
-![19880_image.png](https://github.com/Harshil2001/DCGAN-Anime-Faces/blob/master/images/19880_image.png)
+![17920_image03.png](https://github.com/Harshil2001/DCGAN-Anime-Faces/blob/master/images/17920_image03.png)
+![19880_image03.png](https://github.com/Harshil2001/DCGAN-Anime-Faces/blob/master/images/19880_image03.png)
 
 The faces look pretty good, but it might look more like an actual face with more training, more data and probably with a better network.
